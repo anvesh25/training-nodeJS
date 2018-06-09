@@ -1,7 +1,7 @@
 {
   "name": "typescript-webpack-start",
   "version": "1.0.0",
-  "description": "",
+  "description": "Setup",
   "scripts": {
     "build": "webpack",
     "watch": "webpack --watch",
@@ -22,5 +22,14 @@
     "typescript": "^2.9.1",
     "webpack-cli": "^3.0.3",
     "webpack-dev-server": "^3.1.4"
-  }
+  },
+  "main": "webpack.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anvesh25/training-nodeJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anvesh25/training-nodeJS/issues"
+  },
+  "homepage": "https://github.com/anvesh25/training-nodeJS#readme"
 }
